@@ -51,3 +51,7 @@ C
 src/enums/Test.java,5/9/59dba59ed00c956e89b262921876733240cb6a0d
 H
 src/basic/Constants.java,9/c/9c350932b0dfc9190f8ca1d88d8337e61cc426a4
+E
+src/basic/Arrays.java,b/6/b6a607f17fc5052e424b5c562f47d26c134ff087
+B
+src/basic/CLA.java,0/e/0eb6862ca8ed5c9823bffa0a2ccb093e24a05b22
