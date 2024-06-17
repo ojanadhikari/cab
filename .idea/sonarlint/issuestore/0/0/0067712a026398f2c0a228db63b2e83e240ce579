@@ -1,0 +1,18 @@
+
+i
+java:S1192"NDefine a constant instead of duplicating this literal "             " 3 times.(å¹ŠÏûÿÿÿÿ
+]
+java:S2184"BCast one of the operands of this division operation to a "double".(¯£¥ÿúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¶ÿ¿ú
+E	java:S106"+Replace this use of System.out by a logger.(Èäõ¾þÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¶ÿ¿ú
+E	java:S106"+Replace this use of System.out by a logger.(çŽÙÎýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(÷¥®´ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(•èîð
+E	java:S106"+Replace this use of System.out by a logger.(‚Çñ®øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¾¼ÎÜøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(å¹ŠÏûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(–¦ûµùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(“¾÷…
+?	java:S106"+Replace this use of System.out by a logger.(©äŒW
+?	java:S106 "+Replace this use of System.out by a logger.(”ö¤3

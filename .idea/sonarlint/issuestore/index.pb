@@ -97,3 +97,17 @@ W
 'src/oop/abstraction/multip/Parent2.java,5/d/5d15eeb0c23ba224fce63d74219f473a053ffd95
 U
 %src/oop/abstraction/multip/Child.java,8/1/81042a1b686aee9c5475155bc40c4e9dcd983c54
+_
+/src/oop/miniproject/GradeReportCardService.java,b/0/b0109df99d2c34999d88f14bc2c198534e8403d1
+^
+.src/oop/miniproject/PercReportCardService.java,0/0/0067712a026398f2c0a228db63b2e83e240ce579
+Z
+*src/oop/miniproject/ReportCardService.java,3/4/34ee3207a46bb1cc15dccf2915a9c43be218a842
+P
+ src/oop/miniproject/Student.java,1/3/1378fd179749de12a0cb4c7e5e5bf4775abd304c
+P
+ src/oop/miniproject/Subject.java,e/a/ea9aac7cdd49c75a8525819ff08c15a64b8903f0
+P
+ src/oop/inherit/hasA/Engine.java,b/d/bdbca270e5fe8a089bfe7b81db8b5d6854e7842f
+M
+src/oop/inherit/hasA/Car.java,6/f/6fda2846cab7e69cef8b5dc637dd3bcb6dd01278
