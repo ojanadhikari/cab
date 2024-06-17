@@ -1,4 +1,6 @@
 
 „
-java:S2184"BCast one of the operands of this division operation to a "double".(ÄÛµd8±Îô¦ü1J$acb64e5d-c4e3-4c4f-b1ea-13a46c80f85e
-r	java:S106"+Replace this use of System.out by a logger.(êú’¶ÿÿÿÿÿ8¹Îô¦ü1J$941a0e50-b429-45f3-b0be-b6d40b293914
+java:S2184"BCast one of the operands of this division operation to a "double".(ÄÛµd8ÇéÅÿÿ1J$ffb4cec5-934d-44ef-9d09-c7c42782d175
+r	java:S106"+Replace this use of System.out by a logger.(êú’¶ÿÿÿÿÿ8ØéÅÿÿ1J$e49c14bb-b0c3-4c1b-a003-14c1ae219fb3
+l	java:S106"+Replace this use of System.out by a logger.(Ş¹õD8ÙéÅÿÿ1J$7403e650-d684-4bbd-8c16-b53f9bf6bdf6
+r	java:S106"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8ÚéÅÿÿ1J$47fc6b0f-f75e-49f9-a9dd-59dbdc1feaa3
