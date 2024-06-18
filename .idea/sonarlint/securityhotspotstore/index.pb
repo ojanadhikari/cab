@@ -111,3 +111,9 @@ P
  src/oop/inherit/hasA/Engine.java,b/d/bdbca270e5fe8a089bfe7b81db8b5d6854e7842f
 M
 src/oop/inherit/hasA/Car.java,6/f/6fda2846cab7e69cef8b5dc637dd3bcb6dd01278
+M
+src/oop/statics/StaticEx.java,2/a/2a3204b99b2d8420a1a6f504ede84eef1a41e9ad
+P
+ src/oop/statics/NonStaticEx.java,8/5/85254eb8af95fef18a6117e095285f0d679a6050
+I
+src/oop/statics/Main.java,f/3/f353777b176ffde662ce472525402eaa8ad21a38
