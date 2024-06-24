@@ -1,0 +1,7 @@
+
+
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ú‘”ÓÿÿÿÿÿJ$9a51f78f-7918-42dd-baca-e233afacadee
+Œ
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Şó°J$b68b3598-13ec-4e31-bd1d-d5055ec7317f
+c
+java:S2118"FMake the "io.serialize.Person" class "Serializable" or don't write it.(×ëöú8Ş£Á„2

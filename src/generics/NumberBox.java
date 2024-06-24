@@ -19,6 +19,6 @@ public class NumberBox<T extends Number> {
         System.out.println("Number Box contains: " + integerBox.getContent());
 
         // This will cause a compile-time error because String is not a subclass of Number
-        // NumberBox<String> stringBox = new NumberBox<>();
+//         NumberBox<String> stringBox = new NumberBox<>();
     }
 }

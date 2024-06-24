@@ -1,9 +1,9 @@
 
 –
 java:S1104
-"NMake id a static final constant or non-public and provide accessors if needed.(Ð—ž¸þÿÿÿÿ8ù©• ‚2J$a768e6e0-5ba3-48c0-9152-37cf580b7d99
+"NMake id a static final constant or non-public and provide accessors if needed.(Ð—ž¸þÿÿÿÿ8ù©• ‚2J$cdee59a7-2d80-4dad-a14a-eebc1247e88b
 p
 java:S1444
-"(Make this "public static id" field final(Ð—ž¸þÿÿÿÿ8ú©• ‚2J$e00d080d-8c7c-4235-a389-54a07671abcc
+"(Make this "public static id" field final(Ð—ž¸þÿÿÿÿ8ú©• ‚2J$3f67fad6-f9bd-48f2-b0c1-e750f10e1b99
 }
-java:S1118	":Add a private constructor to hide the implicit public one.(°†ÃÊ8ÿÓ” ‚2J$97fade56-4f16-4426-96dc-acec3bca1874
+java:S1118	":Add a private constructor to hide the implicit public one.(°†ÃÊ8ÿÓ” ‚2J$d0aeac0f-a89f-4f09-bad1-7d646587940c

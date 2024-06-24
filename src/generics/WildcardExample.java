@@ -14,7 +14,7 @@ public class WildcardExample {
     public static void main(String[] args) {
         List<Integer> intList = List.of(1, 2, 3, 4, 5);
         List<Double> doubleList = List.of(1.1, 2.2, 3.3);
-
+        List<String> stringList = List.of("a", "b", "c");
         // Both calls are valid
         printNumbers(intList);
         printNumbers(doubleList);

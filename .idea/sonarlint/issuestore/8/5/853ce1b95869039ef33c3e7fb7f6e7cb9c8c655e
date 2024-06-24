@@ -1,3 +1,7 @@
 
 k	java:S106
-"+Replace this use of System.out by a logger.(·ùßóýÿÿÿÿJ$d4e6aaf9-0030-4db0-9d23-0b841c393164
+"+Replace this use of System.out by a logger.(·ùßóýÿÿÿÿJ$e6067020-b21c-4cfe-aa63-deb14b9ca4ec
+
+java:S1854">Remove this useless assignment to local variable "stringList".(•±¼ô8ð‰€À„2J$e9f16ee0-0e9c-4486-9103-ef5f5c0c0fe7
+r
+java:S1481"/Remove this unused "stringList" local variable.(•±¼ô8õ‰€À„2J$20fc2479-b221-432e-be07-17a1d3fef02d

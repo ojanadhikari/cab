@@ -1,0 +1,14 @@
+
+―
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ϋΏΨ8ΖΒ‰Α„2J$76a68167-c316-4b84-bf70-78ef117b4f97
+ƒ
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(γΦθ8ΝΊƒΑ„2J$da7f3c96-837e-4960-a406-290d6ebf58eb
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ϊ…¦ΐύÿÿÿÿ8ρε‚Α„2J$a772cdfb-b568-486b-a64f-c07924e42f8f
+m	java:S106"+Replace this use of System.out by a logger.(’δ±‡8σε‚Α„2J$c48f8af0-7de5-419c-bce0-d25e4943a407
+r	java:S106"+Replace this use of System.out by a logger.(­¤¶ϊÿÿÿÿ8υε‚Α„2J$96b187bc-7021-4a09-9ad5-6d696734a394
+r	java:S106"+Replace this use of System.out by a logger.(ήχνόÿÿÿÿ8³ήΑ„2J$94a2f4e5-7ab2-4e65-b6f3-72136d54c330
+r	java:S106"+Replace this use of System.out by a logger.(συ‹¬ϊÿÿÿÿ8΄ήΑ„2J$f9fdc3ec-e9c5-47f8-a306-e832865f4520
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ψη8νεΑ„2
+L	java:S106"+Replace this use of System.out by a logger.(Φ­ψϊÿÿÿÿ8νεΑ„2

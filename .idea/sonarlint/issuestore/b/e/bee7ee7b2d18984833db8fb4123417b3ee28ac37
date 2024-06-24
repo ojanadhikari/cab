@@ -1,8 +1,8 @@
 
-l	java:S106"+Replace this use of System.out by a logger.(¹´¢[8‚Ğã¦ü1J$17850e33-bfdd-4084-91a8-61928a96bc3d
-m	java:S106"+Replace this use of System.out by a logger.(¹¸üÕ8ƒĞã¦ü1J$51a99b1b-6fbc-4fd3-8721-946a429f4565
-r	java:S106"+Replace this use of System.out by a logger.(ùÄûšşÿÿÿÿ8„Ğã¦ü1J$d8567a66-c104-453b-a140-4c61e1162506
-r	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8Õçä¦ü1J$5a9991b1-b748-4017-a6c1-8c136c158b81
-r	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8Ëñæ¦ü1J$d67b6614-ad77-492b-8fb7-fb3014fa1d52
+l	java:S106"+Replace this use of System.out by a logger.(¹´¢[8‚Ğã¦ü1J$cec094d5-6c21-43ab-bfe6-7a078b603884
+m	java:S106"+Replace this use of System.out by a logger.(¹¸üÕ8ƒĞã¦ü1J$0a1860da-f5c2-4884-b5d1-41bf1a2e126f
+r	java:S106"+Replace this use of System.out by a logger.(ùÄûšşÿÿÿÿ8„Ğã¦ü1J$cc65a796-d9f4-4cae-9630-67e4beab5d1f
+r	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8Õçä¦ü1J$ffcd1e61-903e-4691-8fdf-640c4f6b2d77
+r	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8Ëñæ¦ü1J$c764dd18-c4db-4797-84fb-a439b961c391
 |
-java:S3400 "9Remove this method and declare a constant for this value.(È¸å8»Õæ¦ü1J$c158b80f-0378-4427-8646-df0aa6359716
+java:S3400 "9Remove this method and declare a constant for this value.(È¸å8»Õæ¦ü1J$10389d45-587d-4346-aea3-c2e6c6e852ef
